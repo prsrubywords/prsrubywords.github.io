@@ -1,6 +1,6 @@
 # Commands
 
 bundle exec jekyll serve --livereload
-bundle exec jeklyll build
+bundle exec jekyll build
 
 JEKYLL_ENV=production bundle exec jekyll build
